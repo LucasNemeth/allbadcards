@@ -3061,7 +3061,7 @@
     },
     {
         "id": 603,
-        "prompt": "This Friday at the Liquid Lunge, it's ______ Night! Ladies drink free.",
+        "prompt": "This Friday at the Liquid Lounge, it's ______ Night! Ladies drink free.",
         "special": ""
     },
     {
@@ -4386,7 +4386,7 @@
     },
     {
         "id": 843,
-        "prompt": "Excuse me, waiter. Could take this back? This soup tastes like ______.",
+        "prompt": "Excuse me, waiter. Could you take this back? This soup tastes like ______.",
         "special": "",
         "isDuplicate": true
     },
