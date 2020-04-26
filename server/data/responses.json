@@ -1,7 +1,7 @@
 [
     {
         "id": 0,
-        "response": "Tweyeting."
+        "response": "Tweeting."
     },
     {
         "id": 1,
@@ -145,7 +145,7 @@
     },
     {
         "id": 35,
-        "response": "A bachelor's degeree in communications."
+        "response": "A bachelor's degree in communications."
     },
     {
         "id": 36,
@@ -2865,7 +2865,7 @@
     },
     {
         "id": 890,
-        "response": "An endless stream of diarrhoea.",
+        "response": "An endless stream of diarrhea.",
         "isDuplicate": true
     },
     {
@@ -3102,7 +3102,7 @@
     },
     {
         "id": 947,
-        "response": "An otherwise unremarkablenurse with history's greatest scrotum.",
+        "response": "An otherwise unremarkable nurse with history's greatest scrotum.",
         "isDuplicate": true
     },
     {
