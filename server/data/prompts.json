@@ -3685,7 +3685,7 @@
     },
     {
         "id": 713,
-        "prompt": "Puberty is a time of change. You might notice hair growing in new places. You might develop an intrest in ______. This is normal.",
+        "prompt": "Puberty is a time of change. You might notice hair growing in new places. You might develop an interest in ______. This is normal.",
         "special": "",
         "isDuplicate": true
     },
@@ -3976,7 +3976,7 @@
     },
     {
         "id": 764,
-        "prompt": "Ken \"____\" Steacy went back into his archives and found his original sketches for ______.",
+        "prompt": "Ken \"____\" Stacey went back into his archives and found his original sketches for ______.",
         "special": "PICK 2"
     },
     {
